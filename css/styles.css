@@ -22,7 +22,7 @@ background-color: #28282e;
     /* Text style for "Project Ti" */
     letter-spacing: 0.53px;
     padding-left: 354px;
-    padding-top: 268px;
+    padding-top: 244px;
 }
 
 
@@ -53,6 +53,7 @@ background-color: #28282e;
 }
  .laptop {
     position: absolute;
+    padding-top: 244px;
     padding-left: 52px;
     padding-right: 52px;
 }
@@ -72,14 +73,16 @@ background-color: #28282e;
     padding-bottom: 14px;
     margin-left: 55px;
     margin-right: 65px;
+    margin-top: 244px;
     border: 1px solid white;
     border-radius: 8px;
 }
 .icons{
     display: flex;
     flex-direction: row;
-    padding-left: 40px;
+    justify-content: space-around;
     padding-top: 87px;
+   
 }
 .rectangle {
     width: 3px;
