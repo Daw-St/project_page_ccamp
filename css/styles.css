@@ -71,7 +71,7 @@ background-color: #28282e;
     padding-top: 14px;
     padding-right: 14px;
     padding-bottom: 14px;
-    margin-left: 55px;
+    margin-left: 53px;
     margin-right: 65px;
     margin-top: 244px;
     border: 1px solid white;
@@ -84,8 +84,13 @@ background-color: #28282e;
     padding-top: 87px;
    
 }
-.rectangle {
-    width: 3px;
-    height: 25px;
-    background-color: #ffffff;
+.slider {
+    display: flex;
+    flex-direction: row;
+    
 }
+
+/*.mac .rectangle img { 
+  display:flex;
+  align-content: flex-end;
+}*/
